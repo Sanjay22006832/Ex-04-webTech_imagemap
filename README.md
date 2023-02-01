@@ -13,7 +13,8 @@ Write the needed HMTL code.
 Run the Django server and execute the HTML FILES.
 
 # Code:
-map.html
+
+```map.html
 
 <!DOCTYPE html>
 <html lang="en">
@@ -149,7 +150,7 @@ and experienced faculty with commitment to serve the college in achieving its go
 </p>
 </body>
 </html>
-
+```
 
 # Output:
 ![image](https://user-images.githubusercontent.com/119830477/215970105-da1ddc04-224f-464d-a0c6-29ac5455cd95.png)
