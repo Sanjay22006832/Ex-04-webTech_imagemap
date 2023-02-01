@@ -153,7 +153,8 @@ and experienced faculty with commitment to serve the college in achieving its go
 ```
 
 # Output:
-![image](https://user-images.githubusercontent.com/119830477/215970105-da1ddc04-224f-464d-a0c6-29ac5455cd95.png)
+![image](https://user-images.githubusercontent.com/119830477/215971086-34528d7b-b4f8-4326-af2d-7ba94601ebc2.png)
+
 ![image](https://user-images.githubusercontent.com/119830477/215970130-35184114-466a-4cec-9c6f-29406b86342b.png)
 ![image](https://user-images.githubusercontent.com/119830477/215970148-d0f6273a-3637-44e6-ae6d-c77188ffcdc6.png)
 ![image](https://user-images.githubusercontent.com/119830477/215970160-352e3062-dfa1-44f0-87d6-62aa6e790415.png)
